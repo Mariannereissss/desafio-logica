@@ -19,4 +19,5 @@ if (quantidadeDeXP <= 1000){
 }else {
    nivel = "radiante"
 }
+
 console.log("O herói de nome " + nomeHeroi + " está no nível " + nivel)
