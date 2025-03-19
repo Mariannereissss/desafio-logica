@@ -1,3 +1,4 @@
+//classificador de nível do herói
 let nomeHeroi = "Marianinha007"
 let quantidadeDeXP = 23456
 let nivel = ""
